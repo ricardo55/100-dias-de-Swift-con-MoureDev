@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='24. Bool y valores logicos'/>
+        <page name='26. Arrays'/>
+        <page name='27. Diccionarios'/>
+        <page name='28. Tuplas'/>
+        <page name='29. Enum'/>
+        <page name='30. Range Operator'/>
+        <page name='32. Operadores basicos en Swift'/>
+        <page name='34. If - Else'/>
+        <page name='35. If anidados'/>
+        <page name='36. Switch'/>
+        <page name='38. Bucles o ciclos For'/>
+        <page name='39. Bucles While'/>
+        <page name='40. Bucle o repeat while'/>
+    </pages>
+</playground>
