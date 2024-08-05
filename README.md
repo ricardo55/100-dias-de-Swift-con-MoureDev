@@ -1,6 +1,4 @@
-![Cover100Dias_D](https://github.com/kontroldev/100-dias-de-Swift-con-MoureDev/assets/75795616/b1e16439-d3ec-48cf-8232-9796c9eedc38)
-
-# Bienvenidos a los 100 días de Swift con MoureDev! 👋
+# Bienvenidos a los 100 días de Swift con MoureDev! :wave:
 
 Ayer propusimos una emocionante actividad para toda la comunidad interesada en aprender Swift desde cero, aprovechando todos los recursos que nos ofrece MoureDev hasta la fecha.
 
@@ -24,7 +22,7 @@ No todos aprendemos de la misma manera, así que no te compares con otros. Ve po
 
 Después de tu hora de aprendizaje, sube tu código a tu cuenta de GitHub. Aquí tienes un [tutorial sobre cómo hacerlo](https://www.youtube.com/watch?v=3GymExBkKjE&t=11240s).
 
-Luego, ve al chat de grupo de estudio y escribe, por ejemplo, [día 1 ✅], para que tú y tus compañeros sepan en qué día están cada uno.
+Luego, ve al chat de grupo de estudio y escribe, por ejemplo, [día 1 :white_check_mark:], para que tú y tus compañeros sepan en qué día están cada uno.
 
 ## Grupos de Estudio
 
@@ -33,5 +31,3 @@ Si encuentras alguna lección difícil, ¡no te preocupes! Hay grupos de estudio
 Recuerda, esto es una actividad para aprender juntos como comunidad. ¡Todos pueden participar!
 
 ## ¡Esperamos verte en el chat de grupo de estudio y disfrutar juntos de estos 100 días de aprendizaje!
-
-**El enlace para poder participar:** [https://discord.com/channels/729672926432985098/1164618377973727263](https://discord.com/channels/729672926432985098/1164618377973727263)
